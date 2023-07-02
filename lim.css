@@ -222,31 +222,31 @@ section {
 
 /* Background images */
 .section-a {
-    background-image: url('IMG/cinematics.jpg');
+    background-image: url('cinematics.jpg');
 }
 
 .section-b {
-    background-image: url('IMG/maria-geller.jpg');
+    background-image: url('maria-geller.jpg');
 }
 
 .section-c {
-    background-image: url('IMG/gwagon.jpg');
+    background-image: url('gwagon.jpg');
 }
 
 .section-d {
-    background-image: url('IMG/garvin.jpg');
+    background-image: url('garvin.jpg');
 }
 
 .section-e {
-    background-image: url('IMG/maria.jpg');
+    background-image: url('maria.jpg');
 }
 
 .section-f {
-    background-image: url('IMG/cls.jpg');
+    background-image: url('cls.jpg');
 }
 
 .section-g {
-    background-image: url('IMG/vonhoerst.jpg');
+    background-image: url('vonhoerst.jpg');
 }
 
 
@@ -443,11 +443,11 @@ footer ul li a:hover {
 
 /* Inner pages */
 .bg-about {
-    background-image: url(IMG/maria.jpg);
+    background-image: url(maria.jpg);
 }
 
 .bg-maintenance {
-    background-image: url(IMG/mech.jpg);
+    background-image: url(mech.jpg);
 }
 
 .section-animate {
